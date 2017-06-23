@@ -1,0 +1,4 @@
+cf login -a api.run.pivotal.io 
+username
+password
+cf push hostName -p pathofjar
